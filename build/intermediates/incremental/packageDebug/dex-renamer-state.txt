@@ -1,0 +1,7 @@
+#Sat Dec 03 12:46:09 MST 2016
+base.0=/Users/scheng/projects/android/AnimationsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c9e593896c113a44865f7d67fbb2e4b02e76ce3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/scheng/projects/android/AnimationsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6e58e83792607adb53b5e14e6c729da855f1f0b0/classes.dex
+base.1=/Users/scheng/projects/android/AnimationsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6e58e83792607adb53b5e14e6c729da855f1f0b0
+file.0=/Users/scheng/projects/android/AnimationsDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c9e593896c113a44865f7d67fbb2e4b02e76ce3/classes.dex
